@@ -1,1 +1,1 @@
-# Laika-s-Mod
+# LaikasMod
